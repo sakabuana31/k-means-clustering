@@ -18,9 +18,7 @@
 </h1>
 
 ### :dart: Goals :
-> 1.  
-> 2. Determine optimum cluster number for raw data in [calculate-elbow.ipynb]() using elbow method
-> 3. Create clustering data points in [k-means-cluster.ipynb]() based on similarities in their features
+> Customer analysis by clustering customers based on the Income and Spending they spend while shopping and determining the number of cluster data clustering.
 
 ### :newspaper: Documentation :
 1. Generate sample data in [create-data.py](create-data.py) using faker with 200 data results in [input_data/sales_data.csv](input_data/sales_data.csv)
